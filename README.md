@@ -1,1 +1,9 @@
-# data_bootcamp_final_project
+This project was completed by Daniel White and Tato Lu in partial fulﬁlment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
+Clearly acknowledged the work and eﬀorts of others when submitting written work as our own. The incorporation of the work of others–including but not limited to their ideas, data, creative expression, and direct quotations (which should be designated with quotation marks), or paraphrasing thereof– has been fully and appropriately referenced using notations both in the text and the bibliography.
+And I understand that:
+Submitting the same or substantially similar work in multiple courses, either in the same semester or in a diﬀerent semester, without the express approval of all instructors is strictly forbidden.
+I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
+
+Project Description
+
+It's well-known that it's difficult for startups and small businesses to survive. [In 2018, there were 30.2 million small businesses operating in the U.S.](https://www.sba.gov/sites/default/files/Whats-New-With-Small-Business-2018.pdf) It's estimated that only [2 in 5 of those businesses are profitable, while the others breakeven or even lose money.](https://smallbiztrends.com/2019/03/startup-statistics-small-business.html) Experts and investors look to a variety of factors to try and predict the outcome of a startup, ranging from [the founder's gender](https://hbr.org/2016/05/4-factors-that-predict-startup-success-and-one-that-doesnt) to [the influence of venture capitalists](https://dspace.mit.edu/bitstream/handle/1721.1/113149/1018306746-MIT.pdf?sequence=1&isAllowed=y). In this project, we look at about 50,000 companies listed on Crunchbase to examine the effect of funding on startup outcome and try to predict the probability that a startup is acquired (or still operating).
